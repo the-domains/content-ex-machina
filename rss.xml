@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Content Ex Machina]]></title>
+        <description><![CDATA[Content Ex Machina]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 20:11:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Creating Quality Content En Mass]]></title>
+            <description><![CDATA[<article><h1>Creating Quality Content En Mass</h1><p>I’ve been producing content, in various forms, for the purpose of business storytelling for more than a decade. I’ve consulted for many companies on how to design and implement cost effective content strategies that stretch the budget without compromising quality.
+In fact, I get questions so often about this that I decided this would make an excellent topic to write on. 
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7472b2e677e6e154ade14eec8a99cb32b70964c.jpg"></article>]]></description>
+            <link>undefinedcreating-quality-content-en-mass/index.html</link>
+            <guid isPermaLink="false">c7d0a58c-a409-4639-ae99-2600039a48b0</guid>
+            <pubDate>Mon, 15 Feb 2016 20:11:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
