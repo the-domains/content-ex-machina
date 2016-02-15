@@ -1,29 +1,41 @@
-name: Content Ex Machina
-favicon: null
-layout_spectrum: 0.25805
-typography_spectrum: 0.82477
 title: Content Ex Machina
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.2419355
+  brandStrength: 0
+  lightness: 0.6559139
+  brandColors:
+    - '#0E050C'
+    - '#785B38'
+    - '#D0CEC6'
+    - '#C60627'
+    - '#A3A1A4'
+  rhythmicContrast: 0
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: Content Ex Machina
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#967b62'
-    - '#00c500'
-    - '#0081bd'
-  brandStrength: 0.625
-  lightness: 0.740338139468804
-  saturation: 0.75
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.6057348
+layout_spectrum: 0.734767
